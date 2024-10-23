@@ -126,7 +126,6 @@ Lib	|854
 
 #### 3. **Top 10 Customers Analysis**
    - **Customer Segmentation**: Sorted and filtered customers based on total sales to identify the top 10 customers.
-   - **Pivot Table for Customer Lifetime Value (CLV)**: Aggregated total sales by `Customer ID` to understand which customers brought the most value to the coffee shop over time.
 
 #### 4. **Geographical Sales Analysis**
    - **Sales by Country**: Aggregated total sales based on customer country, giving a breakdown of sales distribution across regions (US, Ireland, UK).
