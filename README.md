@@ -6,7 +6,7 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaning-and-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Analysis](#analysis-and-charts)
 - [Data Analysis and Formulas used](#data-analysis-and-formulas-used)
 - [Results/Findings](#results-and-findings)
 - [Recommendations](#recommendations)
@@ -33,7 +33,8 @@ Coffee Shop Data: The primary dataset used for the analysis is the **"coffeeshop
 
 ### Tools
 
-- MS Excel [Download here](http://microsoft.com)
+- MS Excel
+ - [Download here](http://microsoft.com)
 ---
 
 ### Data Cleaning and Preparation
@@ -54,7 +55,7 @@ In the provided Excel file, there are three sheets: **Orders**, **Customers**, a
 4. **Postcode Format**: Changed the `Postcode` column to **Text** to accommodate both alphanumeric (Ireland and UK) and numeric (US) postcodes, avoiding errors.
 ---
 
-### Exploratory Data Analysis
+### Analysis and Charts
 
 Below is a numbered list of the key EDA activities performed in this Excel-based analysis:
 
@@ -113,39 +114,63 @@ Exc	|872
 Lib	|854
 **Grand Total**	|**3551**
 
-#### 1. **Data Cleaning and Transformation**
-   - **Addressed Missing Data**: Replaced empty cells in the `Email` and `Phone Number` columns with "Null" to ensure consistency and handle missing data properly.
-   - **Standardized Postcodes**: Converted the `Postcode` column to text format to accommodate both numeric and alphanumeric entries from different countries (US, UK, Ireland).
-   - **Extracted Year**: Created a new `Year` column from the `Order Date` to allow for time-based trend analysis.
-   - **Rounded Numerical Data**: Rounded `Total Sales` and `Unit Price` columns to two decimal places for clarity and consistency in calculations.
 
-#### 2. **Data Aggregation**
-   - **Total Sales Calculation**: Created a new column, `Total Sale`, by multiplying `Quantity` by `Unit Price` to quantify revenue for each order.
-   - **Sales and Quantity by Coffee Type**: Aggregated total sales and quantity sold for each coffee type to evaluate performance.
-   - **Profit Calculation**: Analyzed the `Profit` field from the products sheet, aggregated by year to determine yearly profitability trends.
+The goal was to gain key insights into sales trends, customer behavior, and product performance. The following analyses were carried out using Pivot Tables and various charts for visual representation:
 
-#### 3. **Top 10 Customers Analysis**
-   - **Customer Segmentation**: Sorted and filtered customers based on total sales to identify the top 10 customers.
+1. Total Sales by Coffee Type
 
-#### 4. **Geographical Sales Analysis**
-   - **Sales by Country**: Aggregated total sales based on customer country, giving a breakdown of sales distribution across regions (US, Ireland, UK).
-   - **Customer Loyalty Segmentation**: Analyzed the contribution of customers with loyalty cards vs. those without, to see if loyalty programs had a significant impact on sales.
+Chart: Bar Chart
 
-#### 5. **Product Analysis**
-   - **Sales by Coffee Size**: Aggregated sales by coffee size (2.5, 1, 0.5, and 0.2 liters) to determine customer preferences for different product sizes.
-   - **Coffee Type vs. Revenue**: Compared the quantity sold of each coffee type with the total revenue generated to highlight products that may be underperforming despite high sales volume.
+Reason: A bar chart is ideal for comparing the sales performance of each coffee type. This chart makes it easy to see which coffee types generate the most revenue.
 
-#### 6. **Time-Based Trend Analysis**
-   - **Seasonal Sales Trends**: Analyzed quarterly sales trends using the `Order Date` to spot any seasonality or high-performing periods.
-   - **Yearly Profit Analysis**: Compared profits year over year to identify which years were most successful and investigate what might have driven the business performance during those periods.
 
-#### 7. **Customer Loyalty vs Non-Loyalty Contribution**
-   - **Sales Distribution by Loyalty**: Used the loyalty card data to understand the percentage of sales from loyalty customers compared to non-loyalty customers.
+2. Total Sales by Top 10 Customers
 
-#### 8. **Sales and Profitability by Roast Type**
-   - **Roast Type Segmentation**: Analyzed sales and profitability by `Roast Type` to determine which roast variations are most profitable and in demand (e.g., **EXC** roast type generating higher revenue).
+Chart: Bar Chart
 
-By performing this exploratory data analysis, i was able to uncover essential insights into customer behavior, product performance, and sales trends. These analyses formed the foundation for making data-driven decisions and developing recommendations for the coffee shop's future strategies.
+Reason: A bar chart was used here to highlight the top customers by their contribution to total sales. This visualization quickly identifies the highest revenue-generating customers.
+
+
+3. Total Sales by Country
+
+Chart: Pie Chart
+
+Reason: A pie chart helps to show the proportion of total sales that come from different countries. This is useful for understanding the geographical distribution of customers.
+
+
+4. Total Quantity Sold by Coffee Type
+
+Chart: Bar Chart
+
+Reason: This chart gives a clear picture of which coffee types are the most popular based on the quantity sold, even if they don’t necessarily generate the most revenue.
+
+
+5. Profit by Year
+
+Chart: Line Chart
+
+Reason: A line chart is excellent for showing trends over time. Here, it visualizes the profit trend across different years, helping to identify the most and least profitable periods.
+
+
+6. Customer Segmentation Based on Loyalty
+
+Chart: Doughnut Chart
+
+Reason: This chart shows the percentage of sales made by loyalty cardholders versus non-loyalty customers, providing insight into how effective the loyalty program is.
+
+
+7. Seasonal Sales Trends (Quarterly)
+
+Chart: Line Chart
+
+Reason: The line chart displays quarterly sales trends, helping to identify any seasonality in the coffee shop’s business, such as high or low sales periods.
+
+
+8. Sales by Coffee Size
+
+Chart: Pie Chart
+
+Reason: This pie chart breaks down total sales by coffee size, revealing which sizes are most popular with customers.
 
 ---
 
