@@ -65,7 +65,7 @@ The following analyses were carried out using Pivot Tables and various charts fo
 
 1. Total Sales by Coffee Type
 
-- Chart: Bar Chart
+-  Chart: Bar Chart
 
 Reason: A bar chart is ideal for comparing the sales performance of each coffee type. This chart makes it easy to see which coffee types generate the most revenue.
 
@@ -81,11 +81,11 @@ Reason: A bar chart is ideal for comparing the sales performance of each coffee 
 
 2. Total Sales by Top 10 Customers
 
-- Chart: Bar Chart
+-  Chart: Bar Chart
 
 Reason: A bar chart was used here to highlight the top customers by their contribution to total sales. This visualization quickly identifies the highest revenue-generating customers.
 
-- Table
+-  Table
 
 |Top 10 Customer Name	|Sum of Total Sale (USD)|
 |-----------------------|-----------------------|
@@ -108,11 +108,11 @@ Reason: A bar chart was used here to highlight the top customers by their contri
 
 3. Total Sales by Country
 
-- Chart: Pie Chart
+-  Chart: Pie Chart
 
 Reason: A pie chart helps to show the proportion of total sales that come from different countries. This is useful for understanding the geographical distribution of customers.
 
-- Table
+-  Table
 
 |Country	     |Sum of Total Sale (USD)|
 |-------------|-----------------------|
@@ -123,11 +123,11 @@ United Kingdom	|2798.49
 
 4. Total Quantity Sold by Coffee Type
 
-- Chart: Bar Chart
+-  Chart: Bar Chart
 
 Reason: This chart gives a clear picture of which coffee types are the most popular based on the quantity sold, even if they don’t necessarily generate the most revenue.
 
-- Table
+-  Table
 
 |Coffee Type	|Sum of Quantity|
 |--------------|---------------|
