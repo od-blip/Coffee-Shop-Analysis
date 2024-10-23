@@ -49,6 +49,35 @@ In the provided Excel file, there are three sheets: **Orders**, **Customers**, a
 ### Exploratory Data Analysis
 
 Exploratory Data Analysis (EDA) refers to the initial investigation and examination of data to discover patterns, spot anomalies, test hypotheses, and check assumptions using statistical and graphical tools. Below is a numbered list of the key EDA activities you performed in this Excel-based analysis:
+---
+
+####Tables
+💻
+1. Total Sales For Each Coffee Types
+
+|Coffee Type|Sum of Total Sale (USD)|
+|-----------|-----------------------|
+|Exc        |12306.39               |
+|Lib        |12054.1                |
+|Ara        |11768.41               |
+|Rob        |9005.17                |
+|Grand Total|45134.07               |
+
+---
+2. Top 10 Customers
+
+![image](https://github.com/user-attachments/assets/20d4c778-c941-43e1-a810-7db8d93889c0)
+---
+
+3. Total sales by each Country
+
+![image](https://github.com/user-attachments/assets/031f862c-e959-4cd6-a8bf-ac149d53c83f)
+---
+
+4. Total Quantity ordered for each coffee type
+
+![image](https://github.com/user-attachments/assets/9903db44-0573-4437-a5a0-26fe45513e02)
+---
 
 #### 1. **Data Cleaning and Transformation**
    - **Addressed Missing Data**: Replaced empty cells in the `Email` and `Phone Number` columns with "Null" to ensure consistency and handle missing data properly.
@@ -72,15 +101,7 @@ Exploratory Data Analysis (EDA) refers to the initial investigation and examinat
 #### 5. **Product Analysis**
    - **Sales by Coffee Size**: Aggregated sales by coffee size (2.5, 1, 0.5, and 0.2 liters) to determine customer preferences for different product sizes.
    - **Coffee Type vs. Revenue**: Compared the quantity sold of each coffee type with the total revenue generated to highlight products that may be underperforming despite high sales volume.
-💻
-|Coffee Type|Sum of Total Sale (USD)|
-|-----------|-----------------------|
-|Exc        |12306.39               |
-|Lib        |12054.1                |
-|Ara        |11768.41               |
-|Rob        |9005.17                |
-|Grand Total|45134.07               |
----
+
 #### 6. **Time-Based Trend Analysis**
    - **Seasonal Sales Trends**: Analyzed quarterly sales trends using the `Order Date` to spot any seasonality or high-performing periods.
    - **Yearly Profit Analysis**: Compared profits year over year to identify which years were most successful and investigate what might have driven the business performance during those periods.
