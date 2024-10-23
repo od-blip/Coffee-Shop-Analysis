@@ -59,6 +59,7 @@ In the provided Excel file, there are three sheets: **Orders**, **Customers**, a
 ### Analysis and Charts
 
 The goal was to gain key insights into sales trends, customer behavior, and product performance.
+The following analyses were carried out using Pivot Tables and various charts for visual representation:
 
 #### Few Important Tables 💻
 
@@ -114,8 +115,6 @@ Rob	|878
 Exc	|872
 Lib	|854
 **Grand Total**	|**3551**
-
-The following analyses were carried out using Pivot Tables and various charts for visual representation:
 
 1. Total Sales by Coffee Type
 
