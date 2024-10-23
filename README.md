@@ -21,7 +21,8 @@ This project aims to analyze sales trends, customer behavior, and product perfor
 
 #### Project Dashboard
 
-![Coffe Shop Screenshot](https://github.com/user-attachments/assets/273823ac-40b2-4d11-8ed3-dcc726478a6d)
+
+![Dashboard](https://github.com/user-attachments/assets/f086eb72-e2fa-4240-af58-35339ef1b6e2)
 
 ---
 
