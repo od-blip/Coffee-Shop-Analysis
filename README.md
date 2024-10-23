@@ -78,6 +78,7 @@ Reason: A bar chart is ideal for comparing the sales performance of each coffee 
 |Ara        |11768.41               |
 |Rob       |9005.17             |
 |**Grand Total** |**45134.07**               |
+---
 
 2. Total Sales by Top 10 Customers
 
