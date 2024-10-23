@@ -27,7 +27,7 @@ This project aims to analyze sales trends, customer behavior, and product perfor
 
 ### Data Sources
 
-Coffee Shop Data: The primary dataset used for the analysis is the "coffeeshopdata.xlsx" file containing detailed information about each sale made by the coffee shop.
+Coffee Shop Data: The primary dataset used for the analysis is the **"coffeeshopdata.xlsx"** file containing detailed information about each sale made by the coffee shop.
 
 ---
 
