@@ -106,8 +106,7 @@ Reason: A bar chart was used here to highlight the top customers by their contri
 |Daniel Heinonen	|204.93
 |Lacee Tanti	|204.93
 |**Grand Total**	|**3625.15**
-
-
+---
 
 3. Total Sales by Country
 
@@ -123,7 +122,7 @@ Reason: A pie chart helps to show the proportion of total sales that come from d
 Ireland	|6696.84
 United Kingdom	|2798.49
 **Grand Total**	|**45134.07**|
-
+---
 4. Total Quantity Sold by Coffee Type
 
 -  Chart: Bar Chart
