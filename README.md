@@ -7,6 +7,10 @@
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis and Formulas used](#data-analysis-and-formulas-used)
+- [Results/Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations Encountered](#limitations-encountered-during-the-analysis)
 
 ### Project Overview
 
@@ -76,9 +80,10 @@ Exploratory Data Analysis (EDA) refers to the initial investigation and examinat
 
 By performing this exploratory data analysis, i was able to uncover essential insights into customer behavior, product performance, and sales trends. These analyses formed the foundation for making data-driven decisions and developing recommendations for the coffee shop's future strategies.
 
-### Data Analysis
+### Data Analysis and Formulas used
 
-### Analysis Calculation
+The following formulas are used:
+
 XLOOKUP
 ``` XLOOKUP
 =[@[Product ID]],products!A:A,products!E:E)
@@ -94,7 +99,7 @@ TRIM
 =TRIM(start cell:end cell)
 ```
 
-### Results/Findings
+### Results and Findings
 
 The analysis results are as follows:
 1. **Top Customer Contribution**:
