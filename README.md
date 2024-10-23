@@ -67,7 +67,27 @@ Exploratory Data Analysis (EDA) refers to the initial investigation and examinat
 ---
 2. Top 10 Customers
 
+|Top 10 Customer Name	|Sum of Total Sale (USD)|
+|-----------------------|-----------------------|
+|Allis Wilmore	|317.07|
+|Brenn Dundredge	|307.04
+|Terri Farra	|289.11
+|Nealson Cuttler	|281.68
+|Don Flintiff	|278.01
+|Derick Snow	|251.12
+|Brice Romera	|246.21
+|Alexa Sizey	|218.73
+|Ailey Brash	|206.6
+|Nanny Lush	|204.93
+|Shelli Keynd	|204.93
+|Teddi Crowthe	|204.93
+|Elysee Sketch	|204.93
+|Daniel Heinonen	|204.93
+|Lacee Tanti	|204.93
+|Grand Total	|3625.15
+
 ![image](https://github.com/user-attachments/assets/20d4c778-c941-43e1-a810-7db8d93889c0)
+
 ---
 
 3. Total sales by each Country
