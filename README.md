@@ -16,6 +16,9 @@
 ### Project Overview
 
 This project aims to analyze sales trends, customer behavior, and product performance for a coffee shop. By examining total sales, customer contributions, country-wise performance, and product popularity, the goal is to identify key revenue drivers, optimize the loyalty program, and provide data-driven recommendations to boost future business performance.
+### Project Dashboard
+
+![Coffe Shop Screenshot](https://github.com/user-attachments/assets/273823ac-40b2-4d11-8ed3-dcc726478a6d)
 
 ### Data Sources
 
