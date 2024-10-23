@@ -138,7 +138,7 @@ Rob	|878
 Exc	|872
 Lib	|854
 **Grand Total**	|**3551**
-
+---
 5. Profit by Year
 
 Chart: Line Chart
