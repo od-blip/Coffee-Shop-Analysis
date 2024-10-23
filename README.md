@@ -35,7 +35,7 @@ Coffee Shop Data: The primary dataset used for the analysis is the **"coffeeshop
 ### Tools
 
 - MS Excel
- - [Download here](http://microsoft.com)
+  - [Download here](http://microsoft.com)
 ---
 
 ### Data Cleaning and Preparation
