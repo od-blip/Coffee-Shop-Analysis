@@ -58,7 +58,7 @@ In the provided Excel file, there are three sheets: **Orders**, **Customers**, a
 
 ### Analysis and Charts
 
-Below is a numbered list of the key EDA activities performed in this Excel-based analysis:
+The goal was to gain key insights into sales trends, customer behavior, and product performance.
 
 #### Few Important Tables 💻
 
@@ -115,8 +115,7 @@ Exc	|872
 Lib	|854
 **Grand Total**	|**3551**
 
-
-The goal was to gain key insights into sales trends, customer behavior, and product performance. The following analyses were carried out using Pivot Tables and various charts for visual representation:
+The following analyses were carried out using Pivot Tables and various charts for visual representation:
 
 1. Total Sales by Coffee Type
 
