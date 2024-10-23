@@ -203,22 +203,24 @@ By addressing these insights, the coffee shop can optimize its sales strategy, d
 ### Conclusion on Limitations
 While the analysis provided valuable insights into sales trends, customer behavior, and product performance, addressing the above limitations would enhance the depth and accuracy of future analyses. Data completeness, more granular time series data, and external market context could greatly benefit the coffee shop's decision-making process.
 
+---
+
 ### Interactive Dashboard Design
 
 To enhance the user experience, the dashboard design includes the following elements:
 
 Font: Calibri (Body)
 
-Header: 36pt
-Subheaders: 18pt
-Metrics and Filters: 22pt for key figures like Total Sales, Revenue, Quantity, and Filter headings.
-Chart Text: 11pt for legibility without clutter.
-Color Scheme: Shades of coffee
+- Header: 36pt
+- Subheaders: 18pt
+- Metrics and Filters: 22pt for key figures like Total Sales, Revenue, Quantity, and Filter headings.
+- Chart Text: 11pt for legibility without clutter.
+- Color Scheme: Shades of coffee
 
-Primary Color: #513929
-Secondary Color: #DDC8B9
-Navigation Button: #644632 (text in white)
-Visuals: Rounded square shapes were used for the visuals to create a clean, modern look.
+- Primary Color: #513929
+- Secondary Color: #DDC8B9
+- Navigation Button: #644632 (text in white)
+- Visuals: Rounded square shapes were used for the visuals to create a clean, modern look.
 
 Interactive Elements: Linked navigation buttons were added to allow users to switch between sheets easily. The dashboard contains 11 visuals and 4 filters for a comprehensive view of sales, profits, and customer behavior.
 
