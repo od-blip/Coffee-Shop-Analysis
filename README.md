@@ -61,7 +61,7 @@ In the provided Excel file, there are three sheets: **Orders**, **Customers**, a
 The goal was to gain key insights into sales trends, customer behavior, and product performance.
 The following analyses were carried out using Pivot Tables and various charts for visual representation:
 
-#### Few Important Tables 💻
+💻💻💻
 
 - Total Sales For Each Coffee Types
 
@@ -72,6 +72,12 @@ The following analyses were carried out using Pivot Tables and various charts fo
 |Ara        |11768.41               |
 |Rob       |9005.17             |
 |**Grand Total** |**45134.07**               |
+
+1. Total Sales by Coffee Type
+
+Chart: Bar Chart
+
+Reason: A bar chart is ideal for comparing the sales performance of each coffee type. This chart makes it easy to see which coffee types generate the most revenue.
 
 
 - Top 10 Customers
@@ -95,6 +101,12 @@ The following analyses were carried out using Pivot Tables and various charts fo
 |Lacee Tanti	|204.93
 |**Grand Total**	|**3625.15**
 
+2. Total Sales by Top 10 Customers
+
+Chart: Bar Chart
+
+Reason: A bar chart was used here to highlight the top customers by their contribution to total sales. This visualization quickly identifies the highest revenue-generating customers.
+
 
 - Total sales by each Country
 
@@ -105,6 +117,11 @@ Ireland	|6696.84
 United Kingdom	|2798.49
 **Grand Total**	|**45134.07**|
 
+3. Total Sales by Country
+
+Chart: Pie Chart
+
+Reason: A pie chart helps to show the proportion of total sales that come from different countries. This is useful for understanding the geographical distribution of customers.
 
 - Total Quantity ordered for each coffee type
 
@@ -115,27 +132,6 @@ Rob	|878
 Exc	|872
 Lib	|854
 **Grand Total**	|**3551**
-
-1. Total Sales by Coffee Type
-
-Chart: Bar Chart
-
-Reason: A bar chart is ideal for comparing the sales performance of each coffee type. This chart makes it easy to see which coffee types generate the most revenue.
-
-
-2. Total Sales by Top 10 Customers
-
-Chart: Bar Chart
-
-Reason: A bar chart was used here to highlight the top customers by their contribution to total sales. This visualization quickly identifies the highest revenue-generating customers.
-
-
-3. Total Sales by Country
-
-Chart: Pie Chart
-
-Reason: A pie chart helps to show the proportion of total sales that come from different countries. This is useful for understanding the geographical distribution of customers.
-
 
 4. Total Quantity Sold by Coffee Type
 
