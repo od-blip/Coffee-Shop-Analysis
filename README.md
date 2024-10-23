@@ -12,6 +12,7 @@
 - [Recommendations](#recommendations)
 - [Limitations Encountered](#limitations-encountered-during-the-analysis)
 - [Dashboard Design](#interactive-dashboard-design)
+- [References](#references)
 ---
 
 ### Project Overview
