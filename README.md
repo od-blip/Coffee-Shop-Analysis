@@ -56,7 +56,7 @@ In the provided Excel file, there are three sheets: **Orders**, **Customers**, a
 
 ### Exploratory Data Analysis
 
-Exploratory Data Analysis (EDA) refers to the initial investigation and examination of data to discover patterns, spot anomalies, test hypotheses, and check assumptions using statistical and graphical tools. Below is a numbered list of the key EDA activities you performed in this Excel-based analysis:
+Below is a numbered list of the key EDA activities performed in this Excel-based analysis:
 
 #### Few Important Tables 💻
 
