@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning/Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
 ### Project Overview
@@ -20,7 +20,7 @@ Coffee Shop Data: The primary dataset used for the analysis is the "coffeeshopda
 
 - MS Excel [Download here](http://microsoft.com)
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the provided Excel file, there are three sheets: **Orders**, **Customers**, and **Products**, each containing relevant data for our analysis. To make the data more useful for analysis and charting, I first created relationships between the tables based on `Customer ID` and `Product ID`.
 
