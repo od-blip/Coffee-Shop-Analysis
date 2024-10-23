@@ -67,8 +67,8 @@ Exploratory Data Analysis (EDA) refers to the initial investigation and examinat
 |Exc        |12306.39               |
 |Lib        |12054.1                |
 |Ara        |11768.41               |
-|**Rob**        |**9005.17**               |
-|Grand Total|45134.07               |
+|Rob       |9005.17             |
+|**Grand Total** |**45134.07**               |
 
 
 - Top 10 Customers
@@ -99,7 +99,7 @@ Exploratory Data Analysis (EDA) refers to the initial investigation and examinat
 |-------------|-----------------------|
 |United States	|35638.74
 Ireland	|6696.84
-United |Kingdom	2798.49
+United Kingdom	|2798.49
 **Grand Total**	|**45134.07**|
 
 
