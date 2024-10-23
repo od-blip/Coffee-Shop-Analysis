@@ -107,6 +107,8 @@ Reason: A bar chart was used here to highlight the top customers by their contri
 |Lacee Tanti	|204.93
 |**Grand Total**	|**3625.15**
 
+
+
 3. Total Sales by Country
 
 -  Chart: Pie Chart
