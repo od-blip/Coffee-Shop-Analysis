@@ -100,12 +100,7 @@ Reason: A bar chart was used here to highlight the top customers by their contri
 |Alexa Sizey	|218.73
 |Ailey Brash	|206.6
 |Nanny Lush	|204.93
-|Shelli Keynd	|204.93
-|Teddi Crowthe	|204.93
-|Elysee Sketch	|204.93
-|Daniel Heinonen	|204.93
-|Lacee Tanti	|204.93
-|**Grand Total**	|**3625.15**
+|**Grand Total**	|**2600.5**
 ---
 
 3. Total Sales by Country
