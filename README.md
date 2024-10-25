@@ -22,7 +22,7 @@ This project aims to analyze sales trends, customer behavior, and product perfor
 #### Project Dashboard
 
 
-![Dashboard](https://github.com/user-attachments/assets/f086eb72-e2fa-4240-af58-35339ef1b6e2)
+![Screenshot (26)](https://github.com/user-attachments/assets/35fc53a2-861f-45d8-bdb6-e5d5e6f8f819)
 
 ---
 
